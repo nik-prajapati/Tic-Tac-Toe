@@ -47,6 +47,7 @@ const TicTacToe = () => {
     }
 
     const checkWinner=(newBoard)=>{
+
         console.log("I am called")
         const winnerPoss=[
         ['00','01','02'],
